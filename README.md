@@ -1,4 +1,4 @@
-##  Junior Python / ML Engineer with strong foundations in Informatics and Applied Mathematics. Experienced in data preprocessing, model training, and Python based automation. Actively building projects with NumPy, Pandas, Scikit-learn, and OpenCV, and seeking an entry-level or trainee role to apply skills in real-world problems.
+##  Python / ML Engineer with strong foundation in Informatics and Applied Mathematics. Experienced in data preprocessing, model training, and Python based automation. Actively building projects and seeking an entry-level or trainee role to apply skills in real-world problems.
 
 <br>📍 *Yerevan State University*  <br>🗓️ 2022 – Present  <br><br>**Python (ML / AI)**  <br>📍 *Smart Code*  <br>🗓️ 2025 – Present  <br><br> 🤝 Soft Skills<br>- Strong analytical thinking  <br>- Excellent time management  <br>- Teamwork and collaboration  <br>- Experience working on academic and personal coding projects  <br>
 
