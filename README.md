@@ -1,5 +1,5 @@
 # 💫 About Me:
-   I am a Python / Machine Engineer. I have strong knowledge in Informatics and Applied Mathematics, which I effectively apply to Machine Learning problems. I am skilled in data preprocessing, statistical analysis, mathematical modeling, and model training using Python. I believe that a person can always learn something new, regardless of how much they already know, and I continuously strive to learn more and improve my professional skills every day.
+   I am a Python / ML Engineer. I have strong knowledge in Informatics and Applied Mathematics, which I effectively apply to Machine Learning problems. I am skilled in data preprocessing, statistical analysis, mathematical modeling, and model training using Python. I believe that a person can always learn something new, regardless of how much they already know, and I continuously strive to learn more and improve my professional skills every day.
 
 
 ## 🌐 Socials:
