@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Junior Python / ML Engineer with hands-on experience building CNN-based computer vision systems and RAG pipelines using LangChain and OpenAI APIs.  Strong in data preprocessing, model training, and optimization, with practical experience working on real-world datasets and end-to-end ML pipelines.
+Junior Python Developer with hands-on experience building software tools, data processing pipelines, and API-driven applications. I enjoy solving problems and improving system performance through debugging and experimentation. Familiar with machine learning concepts and eager to grow as a software engineer in a collaborative environment.
+
 
 
 ## 🌐 Socials:
