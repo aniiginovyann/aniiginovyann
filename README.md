@@ -1,5 +1,6 @@
 # 💫 About Me:
-Junior Python Developer with hands-on experience building software tools, data processing pipelines, and API-driven applications. I enjoy solving problems and improving system performance through debugging and experimentation. Familiar with machine learning concepts and eager to grow as a software engineer in a collaborative environment.
+Junior professional with a background in Python and software development, seeking to build a career in technology. I have experience in data processing, cleaning, and structuring datasets, as well as working on simple data pipelines and analytical tasks.
+
 
 
 
